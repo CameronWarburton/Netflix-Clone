@@ -61,7 +61,7 @@ export default function SeedDatabase() {
           release: 2013,
           videoSource: "",
           category: "show",
-          youtubeString: "https://www.youtube.com/embed/-WYdUaK54fU",
+          youtubeString: "https://www.youtube.com/embed/OftuEZVaGrc?si=yaNKD-HVRtMEEd62",
         },
         {
           id: 4,
